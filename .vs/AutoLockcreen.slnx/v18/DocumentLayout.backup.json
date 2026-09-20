@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nguyen Hoang Tung\\Desktop\\AutoLockcreen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{680A6A88-C07A-00B7-05F7-6435064EDE0D}|AutoLockcreen\\AutoLockcreen.csproj|c:\\users\\nguyen hoang tung\\desktop\\autolockcreen\\autolockcreen\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{680A6A88-C07A-00B7-05F7-6435064EDE0D}|AutoLockcreen\\AutoLockcreen.csproj|solutionrelative:autolockcreen\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680A6A88-C07A-00B7-05F7-6435064EDE0D}|AutoLockcreen\\AutoLockcreen.csproj|c:\\users\\nguyen hoang tung\\desktop\\autolockcreen\\autolockcreen\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{680A6A88-C07A-00B7-05F7-6435064EDE0D}|AutoLockcreen\\AutoLockcreen.csproj|solutionrelative:autolockcreen\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D0112F-AAB5-4E63-972D-63606A8EA16C}|AutoLockcreen\\AutoLockcreen.csproj|C:\\Users\\Nguyen Hoang Tung\\Desktop\\AutoLockcreen\\autolockcreen\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99D0112F-AAB5-4E63-972D-63606A8EA16C}|AutoLockcreen\\AutoLockcreen.csproj|solutionrelative:autolockcreen\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\Nguyen Hoang Tung\\Desktop\\AutoLockcreen\\AutoLockcreen\\app.manifest",
+              "RelativeDocumentMoniker": "AutoLockcreen\\app.manifest",
+              "ToolTip": "C:\\Users\\Nguyen Hoang Tung\\Desktop\\AutoLockcreen\\AutoLockcreen\\app.manifest",
+              "RelativeToolTip": "AutoLockcreen\\app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2026-09-19T08:58:28.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Hoang Tung\\Desktop\\AutoLockcreen\\AutoLockcreen\\frmMain.cs",
+              "RelativeDocumentMoniker": "AutoLockcreen\\frmMain.cs",
+              "ToolTip": "C:\\Users\\Nguyen Hoang Tung\\Desktop\\AutoLockcreen\\AutoLockcreen\\frmMain.cs",
+              "RelativeToolTip": "AutoLockcreen\\frmMain.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAA6wFoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T06:52:39.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nguyen Hoang Tung\\Desktop\\AutoLockcreen\\AutoLockcreen\\frmMain.cs",
+              "RelativeDocumentMoniker": "AutoLockcreen\\frmMain.cs",
+              "ToolTip": "C:\\Users\\Nguyen Hoang Tung\\Desktop\\AutoLockcreen\\AutoLockcreen\\frmMain.cs [Design]",
+              "RelativeToolTip": "AutoLockcreen\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T06:48:06.205Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
