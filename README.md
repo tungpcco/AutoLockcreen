@@ -1,1 +1,1 @@
-Press Ctrl + Alt + R for reset counter
+Press Ctrl + Alt + R to reset counter!
